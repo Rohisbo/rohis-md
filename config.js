@@ -22,16 +22,16 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281285866502', '6281398003097']
-global.botname = 'BAYUBOT-MD'
-global.ownername = 'BAYU OFC'
-global.packname = 'BAYUBOT-MD'
-global.author = 'CREATED BY BAYU OFC'
+global.owner = ['12286001762', '12286001762']
+global.botname = 'ROHIS-MD'
+global.ownername = 'ROHIS OFC'
+global.packname = 'ROHIS-MD'
+global.author = 'CREATED BY ROHIS OFC'
 global.sessionName = 'session'
 global.prefa = ['#','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done !! Subscribe BAYU OFC',
+    success: 'Done !!',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
